@@ -1,0 +1,11 @@
+{
+    "name": "root/php_ast",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpAst\\": "src/"
+        }
+    },
+    "require": {
+        "greenlion/php-sql-parser": "^4.3"
+    }
+}
